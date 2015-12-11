@@ -32,5 +32,6 @@
 *.tdo
 *.tmp
 *.fls
+*.class
 
 .DS_Store
