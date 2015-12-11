@@ -10,7 +10,7 @@
 
  5. Interfaces
 
- 6. Collecciones
+ 6. Collec ciones
 
  7. Estructuras lineales
 
