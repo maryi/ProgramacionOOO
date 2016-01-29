@@ -4,6 +4,8 @@
 
  2. Manejo de archivos - flujos de entrada y salida
 
+ 	* Reading: [Lesson: Basic I/O](https://docs.oracle.com/javase/tutorial/essential/io/index.html)
+ 
  3. Excepciones
 
  4. Herencia
