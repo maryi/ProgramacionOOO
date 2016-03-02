@@ -7,6 +7,7 @@
  	* Reading: [Lesson: Basic I/O](https://docs.oracle.com/javase/tutorial/essential/io/index.html)
  
  3. Excepciones
+    * Reading: [Lesson: Handling exceptions](https://docs.oracle.com/javase/tutorial/essential/io/index.html)
 
  4. Herencia
 
