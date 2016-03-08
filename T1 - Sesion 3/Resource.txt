@@ -1,0 +1,5 @@
+1,laptop,true
+2,phone,false
+3,guitar,true
+4,pencil,false
+5,Paper,true
